@@ -1,3 +1,12 @@
+# todo
+- flow(dinic)
+- CD
+- geo
+
+
+
+
+
 # KACTL
 
 This repo hosts KACTL, [KTH](https://en.wikipedia.org/wiki/KTH_Royal_Institute_of_Technology)'s ICPC team reference document.
